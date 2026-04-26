@@ -108,4 +108,4 @@ Cross-modal fusion consistently outperforms any single modality by capturing com
 
 ---
 
-*Built by [Monish Mithra Kadiyala](https://linkedin.com/in/monishmithra) · MS Data Science @ University at Buffalo*
+*Built by [Monish Mithra Kadiyala](https://linkedin.com/in/monishmithra) ·*
